@@ -18,9 +18,10 @@ Para desenvolvimento desse projeto será necessário:
 
 ## 🛠️ Para acesso a Landing Page
 
-Basta acessar o link abaixo:
+Basta acessar os links abaixo:
 
-* [Projeto Landing Page](http://www.dropwizard.io/1.0.2/docs/) - Tradição em projetos de arquitetura
+* [Projeto Landing Page](https://desafio1-formacao-tecnologia-dncgroup.netlify.app/) - Tradição em projetos de arquitetura
+* [Planilha com as informações - SheetMoneky](https://docs.google.com/spreadsheets/d/17BfKDNhZ5tPxUhzUOAjFmIiSU_XtD8Z2mnenSLBfjtk/edit)
 
 ## 🎁 Expressões de gratidão
 
