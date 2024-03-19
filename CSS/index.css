@@ -1,0 +1,120 @@
+*{
+    font-family: 'inter';
+    margin: 0px;
+}
+
+#capa{
+    background-color: #303030;
+    height: 475px;
+    color: #FFFFFF;
+}
+
+#titulo-capa{
+    padding: 206px 0px 0px 62px;
+    font-size: 60px;
+    font-weight: 600;
+}
+
+#texto-capa{
+    padding: 20px 0px 0px 62px;
+    font-size: 20px;
+}
+
+#resultados{
+    height: 250px;
+    background-color: #F9F9F9;
+    color: #000000;
+    display: grid;
+    grid-auto-flow: column;
+}
+
+#resultado-1, #resultado-2, #resultado-3{
+    font-size: 40px;
+} 
+
+#texto-resultado-1, #texto-resultado-2, #texto-resultado-3{
+    font-size: 20px;
+}
+
+#div-resultado-1, #div-resultado-2, #div-resultado-3{
+    margin: 96px 0px 66px 0px;
+}
+
+#div-resultado-1{
+    margin-left: 171px;
+}
+
+#menu-informacional{
+    color: #000000;
+    display: grid;
+    grid-auto-flow: column;
+}
+
+#div-texto-menu-informacional{
+    margin: 250px 0px 0px 77px;
+}
+
+#titulo-menu-informacional{
+    font-weight: 500;
+    font-size: 40px;
+}
+
+#texto-menu-informacional{
+    font-size: 24px;
+    margin-top: 35px;
+}
+
+#img-menu-informacional{
+    margin: 82px 0px 82px 0px;
+}
+
+#fale-conosco{
+    height: 638px;
+    background-color: #303030;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+#titulo-fale-conosco{
+    padding-top: 87px;
+}   
+
+input{
+    width: 508px;
+    height: 72px;
+    background-color: #ffffff;
+    border: 0px;
+    border-radius: 10px;
+    padding-left: 30px;
+    font-size: 24px;
+    font-family: 'Raleway';
+    font-weight: bolder;
+}
+
+#input-name{
+    margin-top: 48px;
+}
+
+#input-email{
+    margin-top: 62px;
+}
+
+button{
+    width: 286px;
+    height: 74px;
+    background-color: #C07212;
+    font-weight: bolder;
+    font-size: 30px;
+    color: #FFFFFF;
+    margin-top: 88px;
+    border: 0px;
+    border-radius: 10px;
+}
+
+button:hover{
+    background-color: #24a0d4;
+    color: white;
+    transform: translateY(7px);
+    transition-duration: 0.5s;
+    box-shadow: 0px 15px 20px #10455c8a;
+}
